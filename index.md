@@ -1,37 +1,168 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" slick-uniqueid="3">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="SHENGENG TANG, 唐申庚"> 
+<meta name="description" content="SHENGENG TANG&#39;s home page">
+<link rel="stylesheet" href="./configs/style/jemdoc.css" type="text/css">
+<style type="text/css">
+</style>
+<title>SHENGENG TANG</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/songpipi/songpipi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<body id="home">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div id="layout-content" style="margin-top:25px">
 
-### Markdown
+<table>
+<tbody>
+  </tr>
+  <tr>
+    <td width="39%" valign="top" height="220" align='center'>
+      <img height="210" id="photo" style="padding: 0pt 50pt 0pt 0pt; float: left; display: inline;" src="./configs/img/profile_02.jpg">
+    </td>
+    
+    <td width="60%" valign="top" height="200">
+      <b><font face="Times New Roman" size="6" color="#07689C">SHENGENG TANG </font><font size="6" face="华文行楷" color="#07689C"> &nbsp 唐申庚</font><font face="Times New Roman" size="6"></font></b> 
+      <!-- <b><font face="Times New Roman" size="6" color="#07689C">SHENGENG TANG </font> &nbsp <img src="./configs/img/name_4.png" height="50px" style="margin-bottom:-18px"> -->
+        <font face="Times New Roman" size="6"></font></b>
+      <br><br>  
+      <p>          
+          Ph.D. Student
+      </p>
+      <p>
+          School of Computer Science and Information Engineering (<a href="http://ci.hfut.edu.cn/" target="_blank">SCSIE</a>)
+      </p>
+      <p>          
+          Hefei University of Technology (<a href="http://en.hfut.edu.cn/" target="_blank">HFUT</a>)
+      </p>
+      <p>          
+          Email: tsg1995&#64mail.hfut.edu.cn
+      </p>
+      <p>          
+          <!-- CV [<a href="./me/cv_en.pdf" target="_blank">English</a>] [<a href="./me/cv_cn.pdf" target="_blank">Chinese</a>]. View on <a href="https://github.com/tangshengeng"target="_blank">Github</a>. -->
+	 Blog: <a href="https://blog.csdn.net/m0_37369043" target="_blank">CSDN</a>, <a href="https://www.zhihu.com/column/c_1196038593297313792" target="_blank">ZHIHU</a>, <a href="https://github.com/tangshengeng" target="_blank">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</tbody>
+</table>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
+<div style="text-align:justify; text-align-last:justify; padding-left: 2.0em; padding-right: 2.0em;">
+<a href="#news"><b>News</b></a>
+<a href="#publications"><b>Publications</b></a>
+<a href="#projects"><b>Projects</b></a>
+<a href="#experience"><b>Experience</b></a>
+<a href="#services"><b>Services</b></a>
+<a href="#link"><b>Link</b></a>
+</div>
+<hr style="height:1px; border:none; border-top:1px solid #aaaaaa;">
 
-```markdown
-Syntax highlighted code block
+<!-- ================ Biography ==================-->
+<h2>Biography</h2>
+<p style="text-align:justify;">
+  I am a Ph.D candidate in Laboratory of Multimedia Computing (<a href="http://lmc.hfut.edu.cn/" target="_blank">LMC</a>). I received the B.E. degree from Hunan Normal University (<a href="https://english.hunnu.edu.cn/" target="_blank">HUNNU</a>) in 2017. My research interests include image processing and computer vision. Specifically, I focus on Continuous Sign Language Translation (CSLT).
+  <br><br>
+  If you are interested in visual understanding and cross-media learning, please visit the homepage of the <a href="https://tangshengeng.github.io/VUT-homepage/" target="_blank">Visual Understanding Team </a>.
+</p>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<!-- ================ News ==================-->
+<h2 id="news">News &nbsp <a href="#home" style="color:#666; font-size:15px;"></a></h2>
+<p>
+  <li><i>May. 2019:</i> One paper is accepted to IJCAI 2019.</li>
+  
+</p>
+ 
 
-1. Numbered
-2. List
+<!-- ================ Publications ==================-->
+<h2 id="publications">Publications &nbsp<a href="#home" style="color:#666; font-size:15px;"></a></h2>
+     
+<table border="0" width="100%">
+<tbody>
+  <tr>
+    <th width="30%"></th>
+    <th width="70%"></th>
+  </tr>
 
-**Bold** and _Italic_ and `Code` text
+<!-- ================ New Publication ==================-->
+<tr>
+<tr>
+  <tr>
+    <td>
+      <div align="left">
+        <img src="./publications/IJCAI2019CTM/overview.png" alt="" class="img_overview">
+      </div>
+    </td>
+    <td valign="baseline">
+      <b>Connectionist Temporal Modeling of Video and Language: a Joint Model for Translation and Sign Labeling</b><br>
+      Dan Guo, <strong>Shengeng Tang</strong>, and Meng Wang<br>
+      International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2019
+      <br>
+      Finished at Hefei University of Technology (HFUT), China
+      <br>
+      [<a href="./publications/IJCAI2019CTM/paper.pdf" target="_blank">Paper</a>]
+      [<a href="./publications/IJCAI2019CTM/bib.html" target="_blank">BibTex</a>]
+      [<a href="./publications/IJCAI2019CTM/slides.pdf" target="_blank">Slides</a>]
+      [<a href="./publications/IJCAI2019CTM/poster.pdf" target="_blank">Poster</a>]
+    </td>
+  </tr> 
+  <tr>
+    <td>
+      <div align="left">
+        <img src="./publications/JSJKX2021Review/overview.png" alt="" class="img_overview">
+      </div>
+    </td>
+    <td valign="baseline">
+      <b>手语识别、翻译与生成综述(Review of Sign Language Recognition, Translation and Generation)</b><br>
+      郭丹, <strong>唐申庚</strong>, 洪日昌, 汪萌<br>
+      计算机科学 (Computer Science), 2021
+      <br>
+      Finished at Hefei University of Technology (HFUT), China
+      <br>
+      [<a href="./publications/JSJKX2021Review/paper.pdf" target="_blank">Paper</a>]
+      [<a href="./publications/JSJKX2021Review/bib.html" target="_blank">BibTex</a>]
+    </td>
+  </tr> 
+ 
+</tbody>
+</table>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<!-- ================ Projects ==================-->
+<h2 id="projects">Projects &nbsp<a href="#home" style="color:#666; font-size:15px;"></a></h2>
+<p>
+   <li>Extract Video Feature by PyTorch [<a href="https://github.com/tangshengeng/extract-video-feature_PyTorch" target="_blank">Code</a>].</li>
+</p>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/songpipi/songpipi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<!-- ================ Experience ==================-->
+<h2 id="experience">Experience &nbsp<a href="#home" style="color:#666; font-size:15px;"></a></h2>
+  <ul>
+    <li class="lists">2017.06 - present, Ph.D student, School of Computer Science and Information Engineering (<a href="http://ci.hfut.edu.cn/" target="_blank">SCSIE</a>), Hefei University of Technology.</li>
+    <li class="lists">2013.09-2017.06, B.E, College of Information and Engineering (<a href="https://cise.hunnu.edu.cn/" target="_blank">CISE</a>), Hunan Normal University. </li>
+  </ul>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!-- ================ Professional Services ==================-->
+<h2 id="services">Professional Services &nbsp<a href="#home" style="color:#666; font-size:15px;"></a></h2>
+  <ul>
+    <li class="lists">Reviewer for 19th Pacific Rim Conference on Multimedia (PCM 2018)</li>
+  </ul>
+
+
+<!-- ================ Link ==================-->
+<h2 id="link">Link &nbsp<a href="#home" style="color:#666; font-size:15px;"></a></h2>
+  <ul>
+    <li><a href="https://tangshengeng.github.io/CCF/" target="_blank">CCF Conferences</a>: Information Update of International Conferences Recommended by CCF.</li>
+    <li><a href="https://blog.csdn.net/m0_37369043/article/details/102926076" target="_blank">Conferences Links</a>: International Conferences on Machine Learning and Artificial Intelligence.</li>
+    <li><a href="./source/gpu_resources.html" target="_blank">GPU Resources</a>: Check GPU resources.</li>
+  </ul>
+
+<br>
+<hr style="height:1px; border:none; border-top:1px solid #aaaaaa;">
+<div align="right" style="font-family:verdana;color:#800000">&copy; Shengeng Tang 2020 &nbsp&nbsp&nbsp&nbsp&nbsp Last updated on Oct. 22, 2020</div>
+
+</body>
+</html>
