@@ -14,10 +14,8 @@
     </td>
     
     <td width="60%" valign="top" height="200">
-     <font face="Times New Roman" size="6" color="#07689C">Peipei Song </font><font size="6" face="黑体" color="#07689C">  宋培培</font><font face="Times New Roman" size="6"></font>
-
-        <font face="Times New Roman" size="6"></font></b>
-      <br><br>  
+     <font face="Times New Roman" size="6" color="#07689C">Peipei Song </font><font size="6" face="黑体" color="#07689C">  宋培培</font>
+      <br> 
       <p>          
           Ph.D. Student
       </p>
@@ -53,14 +51,14 @@
 <!-- ================ Biography ==================-->
 <h2>Biography</h2>
 <p style="text-align:justify;">
-  I am a Ph.D candidate in Laboratory of Multimedia Computing (<a href="http://lmc.hfut.edu.cn/" target="_blank">LMC</a>). I received the B.E. degree from Hefei University of Technology (<a href="https://english.hunnu.edu.cn/" target="_blank">HUNNU</a>) in 2017. My research interests include computer vision and NLP.
-  <br><br>
+  I am a Ph.D candidate in Laboratory of Multimedia Computing (<a href="http://lmc.hfut.edu.cn/" target="_blank">LMC</a>). I received the B.E. degree from Hefei University of Technology (HFUT) in 2017. My research interests include computer vision and NLP.
+  <br>
   If you are interested in visual understanding and cross-media learning, please visit the homepage of the <a href="https://tangshengeng.github.io/VUT-homepage/" target="_blank">Visual Understanding Team </a>.
 </p>
 
 
 <!-- ================ News ==================-->
-<h2 id="news">News  <a href="#home" style="color:#666; font-size:15px;"></a></h2>
+<h2 id="news">News  </h2>
 <p>
   <li><i>May. 2020:</i> One paper is accepted to IJCAI 2020.</li>
   
@@ -68,7 +66,7 @@
  
 
 <!-- ================ Publications ==================-->
-<h2 id="publications">Publications <a href="#home" style="color:#666; font-size:15px;"></a></h2>
+<h2 id="publications">Publications </h2>
      
 <table border="0" width="100%">
 <tbody>
@@ -134,7 +132,7 @@
 
 
 <!-- ================ Experience ==================-->
-<h2 id="experience">Experience <a href="#home" style="color:#666; font-size:15px;"></a></h2>
+<h2 id="experience">Experience </h2>
   <ul>
     <li class="lists">2017.06 - present, Ph.D student, School of Computer Science and Information Engineering (<a href="http://ci.hfut.edu.cn/" target="_blank">SCSIE</a>), Hefei University of Technology.</li>
     <li class="lists">2013.09-2017.06, B.E, College of Information and Engineering (<a href="https://cise.hunnu.edu.cn/" target="_blank">CISE</a>), Hunan Normal University. </li>
@@ -143,7 +141,5 @@
 
 <br>
 <hr style="height:1px; border:none; border-top:1px solid #aaaaaa;">
-<div align="right" style="font-family:verdana;color:#800000">&copy; Shengeng Tang 2020 &nbsp&nbsp&nbsp&nbsp&nbsp Last updated on Oct. 22, 2020</div>
 
-</body>
-</html>
+
