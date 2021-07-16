@@ -1,14 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" slick-uniqueid="3">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="Peipei Song, 宋培培"> 
-<meta name="description" content="Peipei Song&#39;s home page">
-<link rel="stylesheet" href="./configs/style/jemdoc.css" type="text/css">
-<style type="text/css">
-</style>
-<title>Peipei Song</title>
-</head>
 
 <body id="home">
 
