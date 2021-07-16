@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" slick-uniqueid="3">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="SHENGENG TANG, 唐申庚"> 
-<meta name="description" content="SHENGENG TANG&#39;s home page">
+<meta name="keywords" content="Peipei Song, 宋培培"> 
+<meta name="description" content="Peipei Song&#39;s home page">
 <link rel="stylesheet" href="./configs/style/jemdoc.css" type="text/css">
 <style type="text/css">
 </style>
-<title>SHENGENG TANG</title>
+<title>Peipei Song</title>
 </head>
 
 <body id="home">
@@ -23,7 +23,7 @@
     </td>
     
     <td width="60%" valign="top" height="200">
-      <b><font face="Times New Roman" size="6" color="#07689C">SHENGENG TANG </font><font size="6" face="华文行楷" color="#07689C"> &nbsp 唐申庚</font><font face="Times New Roman" size="6"></font></b> 
+      <b><font face="Times New Roman" size="6" color="#07689C">SHENGENG TANG </font><font size="6" face="黑体" color="#07689C"> &nbsp 宋培培</font><font face="Times New Roman" size="6"></font></b> 
       <!-- <b><font face="Times New Roman" size="6" color="#07689C">SHENGENG TANG </font> &nbsp <img src="./configs/img/name_4.png" height="50px" style="margin-bottom:-18px"> -->
         <font face="Times New Roman" size="6"></font></b>
       <br><br>  
@@ -37,11 +37,11 @@
           Hefei University of Technology (<a href="http://en.hfut.edu.cn/" target="_blank">HFUT</a>)
       </p>
       <p>          
-          Email: tsg1995&#64mail.hfut.edu.cn
+          Email: beta.songpp [AT] gmail.com
       </p>
       <p>          
           <!-- CV [<a href="./me/cv_en.pdf" target="_blank">English</a>] [<a href="./me/cv_cn.pdf" target="_blank">Chinese</a>]. View on <a href="https://github.com/tangshengeng"target="_blank">Github</a>. -->
-	 Blog: <a href="https://blog.csdn.net/m0_37369043" target="_blank">CSDN</a>, <a href="https://www.zhihu.com/column/c_1196038593297313792" target="_blank">ZHIHU</a>, <a href="https://github.com/tangshengeng" target="_blank">GitHub</a>
+	 Blog: <a href="https://github.com/songpipi" target="_blank">GitHub</a>
       </p>
     </td>
   </tr>
@@ -62,7 +62,7 @@
 <!-- ================ Biography ==================-->
 <h2>Biography</h2>
 <p style="text-align:justify;">
-  I am a Ph.D candidate in Laboratory of Multimedia Computing (<a href="http://lmc.hfut.edu.cn/" target="_blank">LMC</a>). I received the B.E. degree from Hunan Normal University (<a href="https://english.hunnu.edu.cn/" target="_blank">HUNNU</a>) in 2017. My research interests include image processing and computer vision. Specifically, I focus on Continuous Sign Language Translation (CSLT).
+  I am a Ph.D candidate in Laboratory of Multimedia Computing (<a href="http://lmc.hfut.edu.cn/" target="_blank">LMC</a>). I received the B.E. degree from Hefei University of Technology (<a href="https://english.hunnu.edu.cn/" target="_blank">HUNNU</a>) in 2017. My research interests include computer vision and NLP.
   <br><br>
   If you are interested in visual understanding and cross-media learning, please visit the homepage of the <a href="https://tangshengeng.github.io/VUT-homepage/" target="_blank">Visual Understanding Team </a>.
 </p>
@@ -71,7 +71,7 @@
 <!-- ================ News ==================-->
 <h2 id="news">News &nbsp <a href="#home" style="color:#666; font-size:15px;"></a></h2>
 <p>
-  <li><i>May. 2019:</i> One paper is accepted to IJCAI 2019.</li>
+  <li><i>May. 2020:</i> One paper is accepted to IJCAI 2020.</li>
   
 </p>
  
@@ -92,49 +92,54 @@
   <tr>
     <td>
       <div align="left">
-        <img src="./publications/IJCAI2019CTM/overview.png" alt="" class="img_overview">
+        <img src="./publications/IJCAI2020R2M/overview.png" alt="" class="img_overview">
       </div>
     </td>
     <td valign="baseline">
-      <b>Connectionist Temporal Modeling of Video and Language: a Joint Model for Translation and Sign Labeling</b><br>
-      Dan Guo, <strong>Shengeng Tang</strong>, and Meng Wang<br>
-      International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2019
-      <br>
-      Finished at Hefei University of Technology (HFUT), China
-      <br>
-      [<a href="./publications/IJCAI2019CTM/paper.pdf" target="_blank">Paper</a>]
-      [<a href="./publications/IJCAI2019CTM/bib.html" target="_blank">BibTex</a>]
-      [<a href="./publications/IJCAI2019CTM/slides.pdf" target="_blank">Slides</a>]
-      [<a href="./publications/IJCAI2019CTM/poster.pdf" target="_blank">Poster</a>]
+      <b>Recurrent Relational Memory Network for Unsupervised Image Captioning</b><br>
+      Dan Guo, Yang Wang, <strong>Peipei Song</strong>, Meng Wang<br>
+      International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2020<br>
+      [<a href="./publications/IJCAI2020R2M/paper.pdf" target="_blank">Paper</a>]
+      [<a href="./publications/IJCAI2020R2M/bib.html" target="_blank">BibTex</a>]
+      [<a href="./publications/IJCAI2020R2M/slides.pdf" target="_blank">Slides</a>]
+      [<a href="./publications/IJCAI2020R2M/poster.pdf" target="_blank">Poster</a>]
     </td>
   </tr> 
   <tr>
     <td>
       <div align="left">
-        <img src="./publications/JSJKX2021Review/overview.png" alt="" class="img_overview">
+        <img src="./publications/ICIP2019PTEnc/overview.png" alt="" class="img_overview">
       </div>
     </td>
     <td valign="baseline">
-      <b>手语识别、翻译与生成综述(Review of Sign Language Recognition, Translation and Generation)</b><br>
-      郭丹, <strong>唐申庚</strong>, 洪日昌, 汪萌<br>
-      计算机科学 (Computer Science), 2021
+      <b>Parallel Temporal Encoder For Sign Language Translation</b><br>
+      <strong>Peipei Song</strong>, Dan Guo, Haoran Xin, Meng Wang<br>
+      2019 IEEE International Conference on Image Processing (ICIP)
       <br>
-      Finished at Hefei University of Technology (HFUT), China
-      <br>
-      [<a href="./publications/JSJKX2021Review/paper.pdf" target="_blank">Paper</a>]
-      [<a href="./publications/JSJKX2021Review/bib.html" target="_blank">BibTex</a>]
+      [<a href="./publications/ICIP2019PTEnc/paper.pdf" target="_blank">Paper</a>]
+      [<a href="./publications/ICIP2019PTEnc/bib.html" target="_blank">BibTex</a>]
     </td>
   </tr> 
  
+  <tr>
+    <td>
+      <div align="left">
+        <img src="./publications/ICIP2019PTEnc/overview.png" alt="" class="img_overview">
+      </div>
+    </td>
+    <td valign="baseline">
+      <b>A parallel arithmetic for hardware realization of digital filters</b><br>
+      Chunxiao Fan, Fu Li, Xin Cao, Biao Qian, <strong>Peipei Song</strong><br>
+      Microelectronics Journal, 2019
+      <br>
+      [<a href="./publications/ICIP2019PTEnc/paper.pdf" target="_blank">Paper</a>]
+      [<a href="./publications/ICIP2019PTEnc/bib.html" target="_blank">BibTex</a>]
+    </td>
+  </tr> 	
+	
+	
 </tbody>
 </table>
-
-
-<!-- ================ Projects ==================-->
-<h2 id="projects">Projects &nbsp<a href="#home" style="color:#666; font-size:15px;"></a></h2>
-<p>
-   <li>Extract Video Feature by PyTorch [<a href="https://github.com/tangshengeng/extract-video-feature_PyTorch" target="_blank">Code</a>].</li>
-</p>
 
 
 <!-- ================ Experience ==================-->
@@ -144,21 +149,6 @@
     <li class="lists">2013.09-2017.06, B.E, College of Information and Engineering (<a href="https://cise.hunnu.edu.cn/" target="_blank">CISE</a>), Hunan Normal University. </li>
   </ul>
 
-
-<!-- ================ Professional Services ==================-->
-<h2 id="services">Professional Services &nbsp<a href="#home" style="color:#666; font-size:15px;"></a></h2>
-  <ul>
-    <li class="lists">Reviewer for 19th Pacific Rim Conference on Multimedia (PCM 2018)</li>
-  </ul>
-
-
-<!-- ================ Link ==================-->
-<h2 id="link">Link &nbsp<a href="#home" style="color:#666; font-size:15px;"></a></h2>
-  <ul>
-    <li><a href="https://tangshengeng.github.io/CCF/" target="_blank">CCF Conferences</a>: Information Update of International Conferences Recommended by CCF.</li>
-    <li><a href="https://blog.csdn.net/m0_37369043/article/details/102926076" target="_blank">Conferences Links</a>: International Conferences on Machine Learning and Artificial Intelligence.</li>
-    <li><a href="./source/gpu_resources.html" target="_blank">GPU Resources</a>: Check GPU resources.</li>
-  </ul>
 
 <br>
 <hr style="height:1px; border:none; border-top:1px solid #aaaaaa;">
