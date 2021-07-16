@@ -19,12 +19,12 @@
   </tr>
   <tr>
     <td width="39%" valign="top" height="220" align='center'>
-      <img height="210" id="photo" style="padding: 0pt 50pt 0pt 0pt; float: left; display: inline;" src="./configs/img/profile_02.jpg">
+      <img height="210" id="photo" style="padding: 0pt 50pt 0pt 0pt; float: left; display: inline;" src="./configs/img/profile.jpg">
     </td>
     
     <td width="60%" valign="top" height="200">
       <b><font face="Times New Roman" size="6" color="#07689C">SHENGENG TANG </font><font size="6" face="黑体" color="#07689C"> &nbsp 宋培培</font><font face="Times New Roman" size="6"></font></b> 
-      <!-- <b><font face="Times New Roman" size="6" color="#07689C">SHENGENG TANG </font> &nbsp <img src="./configs/img/name_4.png" height="50px" style="margin-bottom:-18px"> -->
+
         <font face="Times New Roman" size="6"></font></b>
       <br><br>  
       <p>          
