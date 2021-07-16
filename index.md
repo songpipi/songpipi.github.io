@@ -60,7 +60,7 @@
 
 
 <!-- ================ News ==================-->
-<h2 id="news">News &nbsp <a href="#home" style="color:#666; font-size:15px;"></a></h2>
+<h2 id="news">News  <a href="#home" style="color:#666; font-size:15px;"></a></h2>
 <p>
   <li><i>May. 2020:</i> One paper is accepted to IJCAI 2020.</li>
   
@@ -68,7 +68,7 @@
  
 
 <!-- ================ Publications ==================-->
-<h2 id="publications">Publications &nbsp<a href="#home" style="color:#666; font-size:15px;"></a></h2>
+<h2 id="publications">Publications <a href="#home" style="color:#666; font-size:15px;"></a></h2>
      
 <table border="0" width="100%">
 <tbody>
@@ -134,7 +134,7 @@
 
 
 <!-- ================ Experience ==================-->
-<h2 id="experience">Experience &nbsp<a href="#home" style="color:#666; font-size:15px;"></a></h2>
+<h2 id="experience">Experience <a href="#home" style="color:#666; font-size:15px;"></a></h2>
   <ul>
     <li class="lists">2017.06 - present, Ph.D student, School of Computer Science and Information Engineering (<a href="http://ci.hfut.edu.cn/" target="_blank">SCSIE</a>), Hefei University of Technology.</li>
     <li class="lists">2013.09-2017.06, B.E, College of Information and Engineering (<a href="https://cise.hunnu.edu.cn/" target="_blank">CISE</a>), Hunan Normal University. </li>
