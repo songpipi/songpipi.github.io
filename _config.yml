@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Peipei Song"
-description              : "University of Science and Technology of China"
+title                    : "Peipei Song (宋培培)"
+description              : "Focusing on ...."
 repository               : "songpipi/songpipi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Peipei Song"
+  name             : "Peipei Song (宋培培)"
   avatar           : "images/songpipi.png"
-  bio              : "宋培培"
+  bio              : "University of Science and Technology of China"
   location         : "Hefei, China"
   employer         : 
   pubmed           : 
