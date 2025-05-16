@@ -54,7 +54,7 @@ My research interest includes ........  If you are seeking any form of academic 
 - *2017.09 - 2023.06*, PhD, School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China. Advised by [Meng Wang](https://scholar.google.com/citations?user=rHagaaIAAAAJ) and [Dan Guo](https://scholar.google.com/citations?user=DsEONuMAAAAJ)
 - *2013.09 - 2017.07*, Undergraduate, School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China.
 
-# 💻 Professional Services  
+# 💻 Services  
 - Reviewer for AAAI (2022/2023/2024/2025)
 - Reviewer for ICCV (2025)
 - Reviewer for ACM MM (2024/2025)
