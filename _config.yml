@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peipei Song"
-description              : 
+description              : "University of Science and Technology of China"
 repository               : "songpipi/songpipi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Peipei Song"
   avatar           : "images/songpipi.png"
   bio              : "宋培培"
-  location         : "USTC, Hefei, China"
+  location         : "Hefei, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aiIZ_MYAAAAJ"
