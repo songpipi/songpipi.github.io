@@ -10,11 +10,11 @@ main:
     url: "/#-publications"
 
   - title: "Funds"
-    url: "/#-honors-and-awards"
+    url: "/#-funds"
 
   - title: "Experience"
-    url: "/#-educations"
+    url: "/#-experience"
 
   - title: "Services"
-    url: "/#-invited-talks"
+    url: "/#-services"
 
