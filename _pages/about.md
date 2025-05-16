@@ -27,21 +27,20 @@ My research interest includes ........  If you are seeking any form of academic 
 - *2022.02*: &nbsp;🎉One paper is accepted by !
 
 # 📝 Publications 
-
-- ``ICASSP 2025``, Linguistics-Vision Monotonic Consistent Network For Sign Language Production, Xu Wang, Shengeng Tang, **Peipei Song**, Shuo Wang, Dan Guo, Richang Hong, 
-- ``IEEE TCSVT 2025``, Video Corpus Moment Retrieval With Query-Specific Context Learning And Progressive Localization, Long Zhang, **Peipei Song**, Zhangling Duan, Shuo Wang, Xiaojun Chang, Xun Yang, 
-- ``ACM TIST 2025``, Alleviating Confirmation Bias In Learning With Noisy Labels Via Two-Network Collaboration, Chenglong Xu, **Peipei Song**, Shengeng Tang, Dan Guo, Xun Yang, 
-- ``IEEE TMM 2025``, Towards Efficient Partially Relevant Video Retrieval With Active Moment Discovering, **Peipei Song**, Long Zhang, Long La, Weidong Chen, Dan Guo, Xun Yang, Meng Wang, 
-- ``ACM TOMM 2024``, Visual-Linguistic-Stylistic Triple Reward For Cross-Lingual Image Captioning, Jing Zhang, Dan Guo, Xun Yang, **Peipei Song**, Meng Wang, 
-- ``IEEE TIP 2024``, Emotional Video Captioning With Vision-Based Emotion Interpretation Network, **Peipei Song**, Dan Guo, Xun Yang, Shengeng Tang, Meng Wang, 
-- ``CVIPPR 2024``, Syntax-Controllable Video Captioning With Tree-Structural Syntax Augmentation, Jiahui Sun, **Peipei Song**, Jing Zhang, Dan Guo, 
-- ``CVIPPR 2024``, Active Exploration Of Modality Complementarity For Multimodalsentiment Analysis, Junjun Xu, **Peipei Song**, 
-- ``ACM TIST 2024``, Efficiently Gluing Pre-Trained Language And Vision Models For Image Captioning, **Peipei Song**, Yuanen Zhou, Xun Yang, Daqing Liu, Zhenzhen Hu, Depeng Wang, Meng Wang, 
-- ``ACM MM 2023``, Emotion-Prior Awareness Network For Emotional Video Captioning, **Peipei Song**, Dan Guo, Xun Yang, Shengeng Tang, Erkun Yang, Meng Wang, 
-- ``IEEE TMM 2022``, Contextual Attention Network For Emotional Video Captioning, **Peipei Song**, Dan Guo, Jun Cheng, Meng Wang, 
-- ``IEEE TCYB 2022``, Memorial Gan With Joint Semantic Optimization For Unpaired Image Captioning, **Peipei Song**, Dan Guo, Jinxing Zhou, Mingliang Xu, Meng Wang, 
-- ``IJCAI 2020``, Recurrent Relational Memory Network For Unsupervised Image Captioning, Dan Guo, Yang Wang, **Peipei Song**, Meng Wang, 
-- ``ICIP 2019``, Parallel Temporal Encoder For Sign Language Translation, **Peipei Song**, Dan Guo, Haoran Xin, Meng Wang,
+- [Linguistics-Vision Monotonic Consistent Network For Sign Language Production](https://songpipi.github.io/), Xu Wang, Shengeng Tang, **Peipei Song**, Shuo Wang, Dan Guo, Richang Hong, <span style="background-color: #fff4e6; padding: 2px 6px; border-radius: 4px;">ICASSP 2025</span>
+- [Video Corpus Moment Retrieval With Query-Specific Context Learning And Progressive Localization](https://songpipi.github.io/), Long Zhang, **Peipei Song**, Zhangling Duan, Shuo Wang, Xiaojun Chang, Xun Yang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">IEEE TCSVT 2025</span>
+- ``ACM TIST 2025``, [Alleviating Confirmation Bias In Learning With Noisy Labels Via Two-Network Collaboration](https://songpipi.github.io/), Chenglong Xu, **Peipei Song**, Shengeng Tang, Dan Guo, Xun Yang, 
+- ``IEEE TMM 2025``, [Towards Efficient Partially Relevant Video Retrieval With Active Moment Discovering](https://songpipi.github.io/), **Peipei Song**, Long Zhang, Long La, Weidong Chen, Dan Guo, Xun Yang, Meng Wang, 
+- ``ACM TOMM 2024``, [Visual-Linguistic-Stylistic Triple Reward For Cross-Lingual Image Captioning](https://songpipi.github.io/), Jing Zhang, Dan Guo, Xun Yang, **Peipei Song**, Meng Wang, 
+- ``IEEE TIP 2024``, [Emotional Video Captioning With Vision-Based Emotion Interpretation Network](https://songpipi.github.io/), **Peipei Song**, Dan Guo, Xun Yang, Shengeng Tang, Meng Wang, 
+- ``CVIPPR 2024``, [Syntax-Controllable Video Captioning With Tree-Structural Syntax Augmentation](https://songpipi.github.io/), Jiahui Sun, **Peipei Song**, Jing Zhang, Dan Guo, 
+- ``CVIPPR 2024``, [Active Exploration Of Modality Complementarity For Multimodalsentiment Analysis](https://songpipi.github.io/), Junjun Xu, **Peipei Song**, 
+- ``ACM TIST 2024``, [Efficiently Gluing Pre-Trained Language And Vision Models For Image Captioning](https://songpipi.github.io/), **Peipei Song**, Yuanen Zhou, Xun Yang, Daqing Liu, Zhenzhen Hu, Depeng Wang, Meng Wang, 
+- ``ACM MM 2023``, [Emotion-Prior Awareness Network For Emotional Video Captioning](https://songpipi.github.io/), **Peipei Song**, Dan Guo, Xun Yang, Shengeng Tang, Erkun Yang, Meng Wang, 
+- ``IEEE TMM 2022``, [Contextual Attention Network For Emotional Video Captioning](https://songpipi.github.io/), **Peipei Song**, Dan Guo, Jun Cheng, Meng Wang, 
+- ``IEEE TCYB 2022``, [Memorial Gan With Joint Semantic Optimization For Unpaired Image Captioning](https://songpipi.github.io/), **Peipei Song**, Dan Guo, Jinxing Zhou, Mingliang Xu, Meng Wang, 
+- ``IJCAI 2020``, [Recurrent Relational Memory Network For Unsupervised Image Captioning](https://songpipi.github.io/), Dan Guo, Yang Wang, **Peipei Song**, Meng Wang, 
+- ``ICIP 2019``, [Parallel Temporal Encoder For Sign Language Translation](https://songpipi.github.io/), **Peipei Song**, Dan Guo, Haoran Xin, Meng Wang,
 
 
 # 🎖 Funds
