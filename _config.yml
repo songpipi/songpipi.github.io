@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peipei Song"
-description              : "Focusing on vision and language, emotional large language model."
+description              : 
 repository               : "songpipi/songpipi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,11 +21,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Peipei Song (宋培培)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Science and Technology of China"
+  name             : "Peipei Song"
+  name-zh          : "宋培培"
+  avatar           : "images/songpipi.png"
+  bio              : "Focusing on ....."
   location         : "Hefei, China"
-  employer         :
+  employer         : "University of Science and Technology of China"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aiIZ_MYAAAAJ"
   email            : "beta.songpp@gmail.com"
