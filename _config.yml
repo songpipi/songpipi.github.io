@@ -22,11 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Peipei Song"
-  name-zh          : "宋培培"
   avatar           : "images/songpipi.png"
-  bio              : "Focusing on ....."
-  location         : "Hefei, China"
-  employer         : "University of Science and Technology of China"
+  bio              : "宋培培"
+  location         : "USTC, Hefei, China"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aiIZ_MYAAAAJ"
   email            : "beta.songpp@gmail.com"
