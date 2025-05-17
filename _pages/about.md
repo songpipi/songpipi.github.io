@@ -25,10 +25,12 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉One paper is accepted by !
-- *2022.02*: &nbsp;🎉One paper is accepted by !
+- *2025.05*: &nbsp;🎉One paper is accepted by IEEE TMM!
+- *2025.02*: &nbsp;🎉One paper is accepted by ACM TIST!
+- *2025.01*: &nbsp;🎉Two papers are accepted by IEEE TMM and IEEE TCSVT!
 
 # 📝 Publications 
+- [Scene-Text Grounding for Text-Based Video Question Answering](https://songpipi.github.io/), Sheng Zhou, Junbin Xiao, Xun Yang, **Peipei Song**, Dan Guo, Angela Yao, Meng Wang, Tat-Seng Chua, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">IEEE TMM 2025</span>
 - [Video Corpus Moment Retrieval With Query-Specific Context Learning And Progressive Localization](https://songpipi.github.io/), Long Zhang, **Peipei Song***, Zhangling Duan, Shuo Wang, Xiaojun Chang, Xun Yang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">IEEE TCSVT 2025</span>
 - [Alleviating Confirmation Bias In Learning With Noisy Labels Via Two-Network Collaboration](https://songpipi.github.io/), Chenglong Xu, **Peipei Song***, Shengeng Tang, Dan Guo, Xun Yang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">ACM TIST 2025</span>
 - [Towards Efficient Partially Relevant Video Retrieval With Active Moment Discovering](https://songpipi.github.io/), **Peipei Song**, Long Zhang, Long Lan, Weidong Chen, Dan Guo, Xun Yang, Meng Wang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">IEEE TMM 2025</span>
@@ -47,7 +49,7 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 
 # 🎖 Funds
 - *2025.01--2027.12*, Young Scientists Fund (C Class), National Natural Science Foundation of China.
-- *2025.01--2026.6*, General Program, China Postdoctoral Science Foundation. 
+- *2025.01--2026.06*, General Program, China Postdoctoral Science Foundation. 
 
 # 📖 Experience
 - *2025.05--Now*, Associate Researcher, School of Information Science and Technology, University of Science and Technology of China, Hefei, China.
@@ -56,10 +58,13 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 - *2013.09--2017.07*, Undergraduate, School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China.
 
 # 💻 Services  
-- Reviewer for AAAI (2022/2023/2024/2025)
 - Reviewer for ICCV (2025)
 - Reviewer for ACM MM (2024/2025)
-- Reviewer for ...
-
+- Reviewer for AAAI (2022/2023/2024/2025)
+- Reviewer for IEEE TNNLS
+- Reviewer for IEEE TCSVT
+- Reviewer for ACM TOMM
+- Reviewer for Neurocomputing
+- ...
 
 
