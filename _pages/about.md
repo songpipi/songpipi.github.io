@@ -21,7 +21,7 @@ I am currently an Associate Researcher at the School of Information Science and 
 
 I completed my postdoctoral researcher job from July 2023 to June 2025 at the School of Information Science and Technology, University of Science and Technology of China, in Hefei, China, under the supervision of Prof. [Xun Yang (杨勋)](https://faculty.ustc.edu.cn/yangxun/en/index.htm). I obtained my bachelor's and doctoral degrees from the School of Computer Science and Information Engineering, Hefei University of Technology. During my doctoral studies, I was supervised by Prof. [Meng Wang (汪萌)](https://scholar.google.com/citations?user=rHagaaIAAAAJ) and Prof. [Dan Guo (郭丹)](https://scholar.google.com/citations?user=DsEONuMAAAAJ). 
 
-My research interest includes ........  If you are seeking any form of academic cooperation, please feel free to [contact me](mailto:beta.songpp@gmail.com).
+My research centers on multimodal intelligence, with a focus on perception, reasoning, and generation across vision, language, and audio modalities. I am particularly interested in how machines can perceive, interpret, and respond to human emotions in a multimodal context. My work spans topics such as cross-modal retrieval, visual captioning, and visual emotion reasoning, with the long-term goal of building empathetic and human-centric AI systems. If you are seeking any form of academic cooperation, please feel free to [contact me](mailto:beta.songpp@gmail.com).
 
 
 # 🔥 News
