@@ -53,7 +53,7 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 - *2025.01--2026.06*, General Program, China Postdoctoral Science Foundation. 
 
 # 📖 Experience
-- *2025.07--Now*, TBD
+<!--- *2025.07--Now*, TBD-->
 - *2023.07--2025.06*, Postdoc, School of Information Science and Technology, University of Science and Technology of China, Hefei, China. 
 - *2017.09--2023.06*, PhD, School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China. 
 - *2013.09--2017.07*, Undergraduate, School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China.
