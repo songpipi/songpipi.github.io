@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!--I am currently an Associate Researcher at the School of Information Science and Technology, University of Science and Technology of China (USTC).--> 
-I am a member of the [Future Media Computing Lab](https://ftttank.github.io/#about) at the School of Information Science and Technology, University of Science and Technology of China (USTC), led by Prof. [Xiaojun Chang (常晓军)](https://www.xiaojun.ai/) and Prof. [Xun Yang (杨勋)](https://faculty.ustc.edu.cn/yangxun/en/index.htm).
+I am a member of the [Future Media Computing Lab (未来媒体计算实验室)](https://ftttank.github.io/#about) at the School of Information Science and Technology, University of Science and Technology of China (USTC), led by Prof. [Xiaojun Chang (常晓军)](https://www.xiaojun.ai/) and Prof. [Xun Yang (杨勋)](https://faculty.ustc.edu.cn/yangxun/en/index.htm).
 
 I completed my postdoctoral researcher job from July 2023 to June 2025 at the School of Information Science and Technology, University of Science and Technology of China, in Hefei, China, under the supervision of Prof. [Xun Yang (杨勋)](https://faculty.ustc.edu.cn/yangxun/en/index.htm). I obtained my bachelor's and doctoral degrees from the School of Computer Science and Information Engineering, Hefei University of Technology. During my doctoral studies, I was supervised by Prof. [Meng Wang (汪萌)](https://scholar.google.com/citations?user=rHagaaIAAAAJ) and Prof. [Dan Guo (郭丹)](https://scholar.google.com/citations?user=DsEONuMAAAAJ). 
 
