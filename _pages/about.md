@@ -66,6 +66,7 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 - Reviewer for IEEE TNNLS
 - Reviewer for IEEE TCSVT
 - Reviewer for ACM TOMM
+- Reviewer for Pattern Recognition
 - Reviewer for Neurocomputing
 - ...
 
