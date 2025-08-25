@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!--I am currently an Associate Researcher at the School of Information Science and Technology, University of Science and Technology of China (USTC).--> 
-I am a member of the [Future Media Computing Lab (未来媒体计算实验室)](https://ftttank.github.io/#about) at the School of Information Science and Technology, University of Science and Technology of China (USTC), led by Prof. [Xiaojun Chang (常晓军)](https://www.xiaojun.ai/) and Prof. [Xun Yang (杨勋)](https://faculty.ustc.edu.cn/yangxun/en/index.htm).
+I am currently an Associate Researcher at the School of Information Science and Technology, University of Science and Technology of China (USTC).
+I am a member of the [Future Media Computing Lab (未来媒体计算实验室)](https://ustc.fmclab.cn), led by Prof. [Xiaojun Chang (常晓军)](https://www.xiaojun.ai/) and Prof. [Xun Yang (杨勋)](https://faculty.ustc.edu.cn/yangxun/en/index.htm).
 
 I completed my postdoctoral researcher job from July 2023 to June 2025 at the School of Information Science and Technology, University of Science and Technology of China, in Hefei, China, under the supervision of Prof. [Xun Yang (杨勋)](https://faculty.ustc.edu.cn/yangxun/en/index.htm). I obtained my bachelor's and doctoral degrees from the School of Computer Science and Information Engineering, Hefei University of Technology. During my doctoral studies, I was supervised by Prof. [Meng Wang (汪萌)](https://scholar.google.com/citations?user=rHagaaIAAAAJ) and Prof. [Dan Guo (郭丹)](https://scholar.google.com/citations?user=DsEONuMAAAAJ). 
 
@@ -26,6 +26,8 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉One paper is accepted by EMNLP Findings!
+- *2025.07*: &nbsp;🎉Three paper are accepted by ACM MM!
 - *2025.05*: &nbsp;🎉One paper is accepted by IEEE TMM!
 - *2025.02*: &nbsp;🎉One paper is accepted by ACM TIST!
 - *2025.01*: &nbsp;🎉Two papers are accepted by IEEE TMM and IEEE TCSVT!
@@ -53,7 +55,7 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 - *2025.01--2026.06*, General Program, China Postdoctoral Science Foundation. 
 
 # 📖 Experience
-<!--- *2025.07--Now*, TBD-->
+- *2025.07--Now*, Associate Researcher, School of Information Science and Technology, University of Science and Technology of China, Hefei, China. 
 - *2023.07--2025.06*, Postdoc, School of Information Science and Technology, University of Science and Technology of China, Hefei, China. 
 - *2017.09--2023.06*, PhD, School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China. 
 - *2013.09--2017.06*, Undergraduate, School of Computer Science and Information Engineering, Hefei University of Technology, Hefei, China.
@@ -61,7 +63,7 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 # 💻 Services  
 - Reviewer for ICCV (2025)
 - Reviewer for ACM MM (2024/2025)
-- Reviewer for AAAI (2022/2023/2024/2025)
+- Reviewer for AAAI (2022/2023/2024/2025/2026)
 - Reviewer for IEEE TMM
 - Reviewer for IEEE TNNLS
 - Reviewer for IEEE TCSVT
