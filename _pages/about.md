@@ -32,22 +32,15 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 - *2025.02*: &nbsp;🎉One paper is accepted by ACM TIST!
 - *2025.01*: &nbsp;🎉Two papers are accepted by IEEE TMM and IEEE TCSVT!
 
-# 📝 Publications 
-- [Scene-Text Grounding for Text-Based Video Question Answering](https://songpipi.github.io/), Sheng Zhou, Junbin Xiao, Xun Yang, **Peipei Song**, Dan Guo, Angela Yao, Meng Wang, Tat-Seng Chua, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">IEEE TMM 2025</span>
+# 📝 Selected Publications 
+- [Beyond emotion recognition: A multi-turn multimodal emotion understanding and reasoning benchmark](https://songpipi.github.io/), Jinpeng Hu, Hongchang Shi, Chongyuan Dai, Zhuo Li, **Peipei Song**, Meng Wang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">ACM MM 2025</span>
 - [Video Corpus Moment Retrieval With Query-Specific Context Learning And Progressive Localization](https://songpipi.github.io/), Long Zhang, **Peipei Song***, Zhangling Duan, Shuo Wang, Xiaojun Chang, Xun Yang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">IEEE TCSVT 2025</span>
-- [Alleviating Confirmation Bias In Learning With Noisy Labels Via Two-Network Collaboration](https://songpipi.github.io/), Chenglong Xu, **Peipei Song***, Shengeng Tang, Dan Guo, Xun Yang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">ACM TIST 2025</span>
 - [Towards Efficient Partially Relevant Video Retrieval With Active Moment Discovering](https://songpipi.github.io/), **Peipei Song**, Long Zhang, Long Lan, Weidong Chen, Dan Guo, Xun Yang, Meng Wang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">IEEE TMM 2025</span>
-- [Linguistics-Vision Monotonic Consistent Network For Sign Language Production](https://songpipi.github.io/), Xu Wang, Shengeng Tang, **Peipei Song**, Shuo Wang, Dan Guo, Richang Hong, <span style="background-color: #fff4e6; padding: 2px 6px; border-radius: 4px;">ICASSP 2025</span>
-- [Visual-Linguistic-Stylistic Triple Reward For Cross-Lingual Image Captioning](https://songpipi.github.io/), Jing Zhang, Dan Guo, Xun Yang, **Peipei Song**, Meng Wang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">ACM TOMM 2024</span>
 - [Emotional Video Captioning With Vision-Based Emotion Interpretation Network](https://songpipi.github.io/), **Peipei Song**, Dan Guo, Xun Yang, Shengeng Tang, Meng Wang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">IEEE TIP 2024</span>
-- [Syntax-Controllable Video Captioning With Tree-Structural Syntax Augmentation](https://songpipi.github.io/), Jiahui Sun, **Peipei Song***, Jing Zhang, Dan Guo, <span style="background-color: #fff4e6; padding: 2px 6px; border-radius: 4px;">CVIPPR 2024</span>
-- [Active Exploration Of Modality Complementarity For Multimodalsentiment Analysis](https://songpipi.github.io/), Junjun Xu, **Peipei Song***, <span style="background-color: #fff4e6; padding: 2px 6px; border-radius: 4px;">CVIPPR 2024</span>
-- [Efficiently Gluing Pre-Trained Language And Vision Models For Image Captioning](https://songpipi.github.io/), **Peipei Song**, Yuanen Zhou, Xun Yang, Daqing Liu, Zhenzhen Hu, Depeng Wang, Meng Wang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">ACM TIST 2024</span>
 - [Emotion-Prior Awareness Network For Emotional Video Captioning](https://songpipi.github.io/), **Peipei Song**, Dan Guo, Xun Yang, Shengeng Tang, Erkun Yang, Meng Wang, <span style="background-color: #fff4e6; padding: 2px 6px; border-radius: 4px;">ACM MM 2023</span>
 - [Contextual Attention Network For Emotional Video Captioning](https://songpipi.github.io/), **Peipei Song**, Dan Guo, Jun Cheng, Meng Wang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">IEEE TMM 2022</span>
 - [Memorial Gan With Joint Semantic Optimization For Unpaired Image Captioning](https://songpipi.github.io/), **Peipei Song**, Dan Guo, Jinxing Zhou, Mingliang Xu, Meng Wang, <span style="background-color: #e0f0ff; padding: 2px 6px; border-radius: 4px;">IEEE TCYB 2022</span>
 - [Recurrent Relational Memory Network For Unsupervised Image Captioning](https://songpipi.github.io/), Dan Guo, Yang Wang, **Peipei Song***, Meng Wang, <span style="background-color: #fff4e6; padding: 2px 6px; border-radius: 4px;">IJCAI 2020</span>
-- [Parallel Temporal Encoder For Sign Language Translation](https://songpipi.github.io/), **Peipei Song**, Dan Guo, Haoran Xin, Meng Wang, <span style="background-color: #fff4e6; padding: 2px 6px; border-radius: 4px;">ICIP 2019</span>
 
 
 # 🎖 Funds
