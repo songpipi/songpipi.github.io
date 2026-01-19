@@ -26,6 +26,8 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉One paper is accepted by ICASSP!
+- *2026.01*: &nbsp;🎉One paper is accepted by WWW!
 - *2025.08*: &nbsp;🎉One paper is accepted by EMNLP Findings!
 - *2025.07*: &nbsp;🎉Three paper are accepted by ACM MM!
 - *2025.05*: &nbsp;🎉One paper is accepted by IEEE TMM!
@@ -45,7 +47,8 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 
 # 🎖 Funds
 - *2025.01--2027.12*, Young Scientists Fund (C Class), National Natural Science Foundation of China.
-- *2025.01--2026.06*, General Program, China Postdoctoral Science Foundation. 
+- *2025.01--2026.06*, General Program, China Postdoctoral Science Foundation.
+- ...
 
 # 📖 Experience
 - *2025.07--Now*, Associate Researcher, School of Information Science and Technology, University of Science and Technology of China, Hefei, China. 
