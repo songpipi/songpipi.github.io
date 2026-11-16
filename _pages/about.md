@@ -84,10 +84,10 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 -->
 
 # 🎖 Honors & Awards
-- **2026** | **Outstanding Paper Award**, ACM Multimedia (ACM MM 2026).
-- **2026** | **Silver Reviewer Award**, International Conference on Machine Learning (ICML 2026).
-- **2025** | **Second-Class Funding Award**, Mozi Outstanding Young Scholar Special Support Program, University of Science and Technology of China (USTC).
-- **2025** | **First Place Award**, MiGA Challenge 2025, Track 2: Micro-gesture Online Recognition.
+- *2026.11*, **Outstanding Paper Award**, ACM Multimedia (ACM MM 2026).
+- *2026.05*, **Silver Reviewer Award**, International Conference on Machine Learning (ICML 2026).
+- *2026.01*, **Second-Class Funding Award**, Mozi Outstanding Young Scholar Special Support Program, University of Science and Technology of China (USTC).
+- *2025.08*, **First Place Award**, MiGA Challenge 2025, Track 2: Micro-gesture Online Recognition.
 
 # 📖 Experience
 - *2025.07--Now*, Associate Researcher, School of Information Science and Technology, University of Science and Technology of China, Hefei, China. 
