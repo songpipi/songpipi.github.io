@@ -36,7 +36,7 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 
 # 📝 Selected Publications
 
-- **Layer Roles Matter: Mitigating Modality Imbalance in Multimodal Emotion Reasoning via Adaptive Layer Profiling**
+- **Layer Roles Matter: Mitigating Modality Imbalance in Multimodal Emotion Reasoning via Adaptive Layer Profiling**  
   Pengyu Huang, **Peipei Song**, Beier Zhu, Zhiyuan Han, Jinpeng Hu, Xun Yang  
   <span style="background-color:#E8F1FF;color:#2457A6;padding:3px 8px;border-radius:5px;font-weight:600;">ACM MM 2026</span> <span style="background-color:#FFF0DC;color:#A85A12;padding:3px 8px;border-radius:5px;font-weight:600;">Oral</span> <span style="background-color:#FFF1C2;color:#8C6100;padding:3px 8px;border-radius:5px;font-weight:700;">🏆 Outstanding Paper Award</span>   [[Paper]](https://arxiv.org/abs/2611.11907) · [[Project]](https://pengyuhuang1.github.io/LAMR/)
 
