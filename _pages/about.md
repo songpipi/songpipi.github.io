@@ -83,7 +83,7 @@ My research centers on multimodal intelligence, with a focus on perception, reas
 - *2025.01--2026.06*, General Program, China Postdoctoral Science Foundation.
 -->
 
-# 🎖 Honors & Awards
+# 🏅 Honors & Awards
 - *2026.11*, **Outstanding Paper Award**, ACM Multimedia (ACM MM 2026).
 - *2026.05*, **Silver Reviewer Award**, International Conference on Machine Learning (ICML 2026).
 - *2026.01*, **Second-Class Funding Award**, Mozi Outstanding Young Scholar Special Support Program, University of Science and Technology of China (USTC).
